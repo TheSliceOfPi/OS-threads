@@ -1,7 +1,13 @@
-proj3.py
+  
+Edith Flores
+OS Threads
+
+Files:
+uthread.c
+uthread.exe
+
+
+--------uthread-----------------
+uthread is a C library that implements user-space threads (sometimes called “fibers”) similar to pthread.
 
 To run:
-python3 proj3.py
-
-The rest of the document files are needed to preprocess, some have been altered to implement documents as queries.
-Proj3.py is the program.
